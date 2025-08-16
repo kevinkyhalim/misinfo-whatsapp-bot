@@ -1,0 +1,10 @@
+fastapi==0.112.0
+uvicorn==0.30.6
+mangum==0.17.0
+requests==2.32.3
+python-dotenv==1.0.1   # optional – for local env files
+google
+google-genai
+faiss-cpu
+sentence-transformers
+numpy
